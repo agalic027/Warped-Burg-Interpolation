@@ -3,10 +3,6 @@ Implementation of interpolation algorithm described in the following paper [(ful
 > Esquef, Paulo Antonio & Välimäki, Vesa & Roth, Kari & Kauppinen, Ismo. (2003).
 > Interpolation Of Long Gaps In Audio Signals Using The Warped Burg's Method. 
 
-Functions ap_delay and genwfiltercoef are part of third party matlabtoolbox WarpTB provided here:
-
-[Link](http://www.acoustics.hut.fi/software/warp/)
-
-and are not modified in any way.
+Functions ap_delay and genwfiltercoef are part of third party matlabtoolbox WarpTB provided [here](http://www.acoustics.hut.fi/software/warp/) and are not modified in any way.
 
 Most of the functions implemented here are available in some shape or form through WarpTB, but those implementations are hard to use in modern versions of MATLAB.
